@@ -41,7 +41,7 @@ body {
 	color: #FFF;
 	font-size: 70px;
 	font-weight: 300;
-	font-family: "Source Sans pro";
+	font-family: 'Josefin Slab', serif;
 	text-align: center;
 	transition: padding-top, 0.2s;
 	-webkit-transition: padding-top, 0.2s;
@@ -59,7 +59,7 @@ body {
 	color: #44A;
 	font-size: 60px;
 	font-weight: 400;
-	font-family: "Source Sans pro";
+	font-family: 'Josefin Slab', serif;
 	text-align: center;
 	text-shadow: 30px, 30px, #000;
 }
@@ -94,7 +94,7 @@ body {
 	margin-left:5%;
 	margin-right: 5%;
 	background-color: #FFE;
-	font-family: "Source sans pro";
+	font-family: 'Josefin Slab', serif;
 	font-weight: normal;
 	padding-top: 10px;
 	border-width:10px;
@@ -120,7 +120,7 @@ body {
 .contactBtn {
 
 	background-color: #AAE;
-	font-family: "Source sans pro";
+	font-family: 'Josefin Slab', serif;
 	font-size: 50px;
 	font-weight:bold;
 	color: #FFF;
@@ -162,7 +162,7 @@ body {
 	color: #FFF;
 	font-size: 70px;
 	font-weight: 400;
-	font-family: "Source Sans pro";
+	font-family: 'Josefin Slab', serif;
 	text-align: center;
 	margin: auto;
 	width: 90%;
@@ -177,7 +177,7 @@ body {
 	color: #FFF;
 	font-size: 35px;
 	font-weight: 300;
-	font-family: "Source Sans pro";
+	font-family: 'Josefin Slab', serif;
 	text-align: center;
 	margin: auto;
 	width: 90%;
@@ -199,7 +199,7 @@ body {
 	color: #AAE;
 	font-size: 35px;
 	font-weight: 300;
-	font-family: "Source Sans pro";
+	font-family: 'Josefin Slab', serif;
 	text-align: center;
 	margin: auto;
 	width: 90%;
@@ -223,7 +223,7 @@ body {
 	color: #AAE;
 	font-size: 70px;
 	font-weight: 400;
-	font-family: "Source Sans pro";
+	font-family: 'Josefin Slab', serif;
 	text-align: center;
 	margin: auto;
 	width: 90%;
@@ -237,7 +237,7 @@ body {
 	color: #339;
 	font-size: 35px;
 	font-weight: 300;
-	font-family: "Source Sans pro";
+	font-family: 'Josefin Slab', serif;
 	text-align: center;
 	border: 5px;
 	border-bottom-left-radius: 5px;
@@ -261,7 +261,7 @@ body {
 	color: #EEE;
 	font-size: 70px;
 	font-weight: 400;
-	font-family: "Source Sans pro";
+	font-family: 'Josefin Slab', serif;
 	text-align: center;
 	margin: auto;
 	width: 90%;
